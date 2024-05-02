@@ -16,4 +16,4 @@ spring:
                 headers: false
 
 topic:
-  send-order: send-order-event
+  send-data: send-data-event

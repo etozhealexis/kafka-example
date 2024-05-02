@@ -6,7 +6,6 @@
     <modules>
         <module>consumer</module>
 		<module>producer</module>
-        <module>consumer-second</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
